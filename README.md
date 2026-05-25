@@ -11,7 +11,7 @@ Each section is a self-contained learning log designed to strengthen core Linux 
 ## 📂 Repository Structure
 
 ```bash
-DevOps-Learning---Linux-Module/
+Linux-Learning
 ├── bandit/
 │   ├── README.md          # Intro to OverTheWire Bandit
 │   └── writeup.md         # Full walkthrough (Level 0+)
